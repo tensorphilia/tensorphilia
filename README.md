@@ -41,7 +41,9 @@ we are currently deploying [Tensorphilia projects](https://github.com/tensorphil
 |mohammad hossein soleimani|presentor|[link](linkedin.com/in/mohammad-hosseyn-soleimani)
 🤝Contributers to mini projects sessions:
 |Hossein Salimi|presentor|[link](linkedin.com/in/hossein-salimi)|
-
+|Sina Salakhi|presentor|[link](linkedin.com/in/sina-salakhi)|
+|Ali Najafi|presentor|[link](linkedin.com/in/ali-najafi)|
+|Ali Maboudi|presentor|link |
 
 
 ## 🌐 Socials:
